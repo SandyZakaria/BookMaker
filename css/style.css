@@ -1,0 +1,67 @@
+*
+{
+    font-family: arial;
+}
+.container 
+{
+    width: 80%;
+}
+.style1
+{
+    width: 85%;
+}
+
+.column
+{
+	display:flex;
+	flex-direction:column;
+}
+.total-section
+{
+	background-color:#EEE;
+	border:none;
+	text-align:center;
+	padding:30px;
+    
+}
+.input
+{	
+	font-size:15px;
+	max-height:2em;
+}
+
+
+table{
+	width:100%;
+	margin:15px 0px;
+}
+.style2
+{
+   
+}
+.webwell
+{
+	background-image:linear-gradient(#EEE,#FFF);
+	margin:10px 10px;
+	padding:20px;
+}
+
+thead tr
+{
+	font-size:15px;
+	font-weight:bold;
+	background-color:#1167c4;
+	color:white;
+}
+
+td
+{
+	padding:10px 20px;
+	text-align:left;
+	margin:10px 0;
+	border:none;
+	border-bottom :1px solid #555;
+}
+thead td {
+	border-bottom :1px solid #1167c4;
+}
